@@ -1,6 +1,6 @@
 # Keshav Network
 
-A Next.js 15 project with Tailwind CSS, Radix UI components, and TypeScript.
+Library of my projects (te-he) plus a Next.js 15 app with Tailwind CSS, Radix UI components, and TypeScript.
 
 ## Development
 
