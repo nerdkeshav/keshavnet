@@ -1,0 +1,11 @@
+* text=auto
+
+# Treat these as binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+
+# Lock files
+pnpm-lock.yaml -diff
